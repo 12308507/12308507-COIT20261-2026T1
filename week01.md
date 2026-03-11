@@ -1,5 +1,5 @@
-#WEEK 1 #
-Outputs Of Week1:-
+WEEK1
+-Outputs Of Week1:-
 
 1.	Exported project:
 ![exportedproject](week1/GNS3-intro-12308507.gns3project)
