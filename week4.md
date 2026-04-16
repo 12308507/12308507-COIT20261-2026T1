@@ -37,14 +37,13 @@
 	  
 4.	Output showing routing table for two routers.
 ![routingtable](images/week4-host1.png)
-![routingtable](
+![routingtable](images/week4-host2.png)
+![routingtable](images/week4-host3.png)
+1[routingtable](images/week4-router.png)
 
-5. output of traceroute:-
+6. output of traceroute:-
 
 ![traceroute](images/week4-traceroute.png)
 	
 
-
-7.	Output of traceroute commands before and after the link is disconnected
-![tracerouter](images/week4-traceroute (2).png)
 
