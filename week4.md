@@ -39,7 +39,7 @@
 ![routingtable](images/week4-host1.png)
 ![routingtable](images/week4-host2.png)
 ![routingtable](images/week4-host3.png)
-1[routingtable](images/week4-router.png)
+![routingtable](images/week4-router.png)
 
 6. output of traceroute:-
 
