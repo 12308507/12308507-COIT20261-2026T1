@@ -21,9 +21,20 @@
 
 
 3.	Record of the IP addresses and routing tables of each host and router
+- Host 1
+![recordofipaddressandroutingtable](images/host1routingtable.png)
+- Host 2
+![recordofipaddressandroutingtable](images/host2routingtable.png)
+  - HOST 3
+![recordofipaddressandroutingtable](images/host3routingtable.png)
+- HOST 4
+![recordofipaddressandroutingtable](images/host4routingtable.png)
+- ROUTER 1
+![recordofipaddressandroutingtable](images/router1routingtable.png)
+- ROUTER 2
+![recordofipaddressandroutingtable](images/router2routingtable.png)
 
-![recordofipaddressandroutingtable](
 
 4.	Screenshot of a successful ping from a host one one subnet to a host on the other subnet
 
-![successfulping](
+![successfulping](images/host1ping.png)
