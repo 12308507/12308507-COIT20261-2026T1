@@ -23,22 +23,24 @@
 
 1.	Exported project
 
-  ![exportedproject](
+  ![exportedproject](images/OSPF-Basics-12308507.gns3project)
+  
 2.	Screenshot of the network
 
-  ![network]( 
+  ![network]
+  
 3.	Output  showing neigbour routers of FRR1
 
-![outputshowingneigbour](
+![outputshowingneigbour](images/week4-iproute-image1.png)
+![outputshowingneigbour](images/week4-iproute-image2.png))
 
 	  
 4.	Output showing routing table for two routers.
+![routingtable](images/week4-host1.png)
 ![routingtable](
 	
-5.	A table that summarises the routers for all routers
 
-	![tablesummarisingallrouters](
 
-7.	Output of traceroute commands before and after the link is disconnected
-![tracerouter](
+5.	Output of traceroute commands before and after the link is disconnected
+![tracerouter](images/week4-traceroute (2).png)
 
