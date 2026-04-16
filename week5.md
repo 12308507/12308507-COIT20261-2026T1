@@ -1,5 +1,8 @@
 # WEEK5
-- TASK 1 
+
+- TASK 1
+
+
 1.	Exported project:-
 
 ![exportedproject](images/Vlan-basics-12308507.gns3project)
@@ -19,11 +22,21 @@
 
 1.	Exported project
 
-![Exportedproject](
+![Exportedproject](images/Vlan-router-12308507.gns3project)
+
+
+
 2.	Screenshot of the network
 
-![network](
+
+
+![network](images/Vlan-router-12308507-gnsproject.png)
+
+
+
 3.	Screenshot showing the ports and tags on the switch 
 
-![portsandtags]
+
+
+![portsandtags](images/vlan-routers-12308507-ports.png)
 
