@@ -17,7 +17,7 @@
 
 2.	Screenshot of the network
 
-![network](
+![network](images/Default-Gateway-12308507-network.png)
 
 
 3.	Record of the IP addresses and routing tables of each host and router
