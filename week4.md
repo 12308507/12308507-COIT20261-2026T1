@@ -27,7 +27,7 @@
   
 2.	Screenshot of the network
 
-  ![network]
+  ![network](images/OSPF-Basics-12308507-network..png)
   
 3.	Output  showing neigbour routers of FRR1
 
