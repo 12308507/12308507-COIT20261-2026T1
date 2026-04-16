@@ -5,7 +5,7 @@
 1.Screenshots of ARP tables of host A at different time points that illustrate the changes in the ARP table as devices communicate:-
 
 
-![ARPtables](
+![ARPtables]
 
 
 - TASK 2
